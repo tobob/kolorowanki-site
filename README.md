@@ -10,3 +10,7 @@ Public pages for the Kolorowanki app (App Store / Google Play listing), one page
 
 Generated from the app repo ([tobob/kolorowanki](https://github.com/tobob/kolorowanki)): `npm run site -- <this-folder>`. Do not edit the HTML by hand.
 Questions: open an issue in [tobob/kolorowanki](https://github.com/tobob/kolorowanki/issues).
+
+## License
+
+[MIT](LICENSE).
